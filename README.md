@@ -83,16 +83,23 @@
 <div align="center">
 
 ### 🏠 Page d'Accueil
-![Homepage](screenshots/homepage.png)
+<img width="1089" height="540" alt="image" src="https://github.com/user-attachments/assets/e46e9362-59a5-494b-9bdb-8bd45818f682" />
+<img width="1088" height="539" alt="image" src="https://github.com/user-attachments/assets/823086ca-2428-4b9e-be5d-eab48555363b" />
+
 
 ### ⏰ Horaires de Prière
-![Prayer Times](screenshots/prayer-times.png)
+
+<img width="1090" height="546" alt="image" src="https://github.com/user-attachments/assets/62b48708-30a9-4b79-ab26-2a0e86c5b417" />
+<img width="1089" height="544" alt="image" src="https://github.com/user-attachments/assets/6fd72f50-f07b-4dc2-af4b-9125be8edde9" />
 
 ### 🧭 Boussole Qibla
-![Qibla Compass](screenshots/qibla-compass.png)
+<img width="1089" height="518" alt="image" src="https://github.com/user-attachments/assets/78bbbfa3-75c3-48b4-ab8d-83e7a121c56a" />
+
 
 ### 📿 Adhkâr
-![Adhkar](screenshots/adhkar.png)
+<img width="1086" height="484" alt="image" src="https://github.com/user-attachments/assets/068b59be-3c60-4987-b947-62c32990db47" />
+<img width="1082" height="482" alt="image" src="https://github.com/user-attachments/assets/d17dc0dd-c307-479e-a975-bd1d9531b5bc" />
+
 
 </div>
 
