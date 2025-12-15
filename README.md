@@ -494,6 +494,8 @@ SOFTWARE.
 
 **Linkden :** [https://www.linkedin.com/in/achraf-allali-9889a0321/](https://www.linkedin.com/in/achraf-allali-9889a0321/)
 
+🎥 **Tutoriels vidéo** : [À venir sur YouTube](https://youtu.be/yiG1CldA2as?si=2fglIiKrCsS3s0-L)
+
 ---
 
 ## ❤️ Remerciements
